@@ -1,0 +1,4 @@
+[2026-04-02 21:32:26][WARNING] BlueMap is missing important resources!
+[2026-04-02 21:32:26][WARNING] You must accept the required file download in order for BlueMap to work!
+[2026-04-02 21:32:26][WARNING] Please check: /workspaces/psychic-sniffle/servidor_minecraft/config/bluemap/core.conf
+[2026-04-02 21:32:26][INFO] If you have changed the config you can simply reload the plugin using: /bluemap reload
